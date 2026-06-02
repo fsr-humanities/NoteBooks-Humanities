@@ -7,8 +7,8 @@ const resend = new Resend(process.env.RESEND_API_KEY);
 // Initialize Redis client if available
 let redis = null;
 if (process.env.KV_REST_API_URL && process.env.KV_REST_API_TOKEN) {
-  const { createClient } = await import('@upstash/redis');
-  redis = createClient({
+  const { Redis } = await import('@upstash/redis');
+  redis = new Redis({
     url: process.env.KV_REST_API_URL,
     token: process.env.KV_REST_API_TOKEN,
   });
