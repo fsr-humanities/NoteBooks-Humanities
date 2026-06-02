@@ -5,7 +5,23 @@
     {
       "type": "folder",
       "name": "AI-NOTES",
-      "children": []
+      "children": [
+        {
+          "type": "file",
+          "name": "GLOSSARY.md",
+          "path": "AI-NOTES/GLOSSARY.md"
+        },
+        {
+          "type": "file",
+          "name": "MINDMAP.md",
+          "path": "AI-NOTES/MINDMAP.md"
+        },
+        {
+          "type": "file",
+          "name": "NOTES.md",
+          "path": "AI-NOTES/NOTES.md"
+        }
+      ]
     },
     {
       "type": "file",
