@@ -6,7 +6,7 @@
 // The Office viewer calls:
 //   https://view.officeapps.live.com/op/embed.aspx?src=https://your-app.vercel.app/api/raw?path=...
 
-const REPO = 'fsr-science/NoteBooks-Science';
+const REPO = 'fsr-humanities/NoteBooks-Humanities';
 
 const MIME_TYPES = {
   doc:  'application/msword',
