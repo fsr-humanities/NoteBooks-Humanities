@@ -7,19 +7,1054 @@
       "name": "AI-NOTES",
       "children": [
         {
-          "type": "file",
-          "name": "GLOSSARY.md",
-          "path": "AI-NOTES/GLOSSARY.md"
+          "type": "folder",
+          "name": "INDIAN-CONSTITUTION-AT-WORK",
+          "children": [
+            {
+              "type": "folder",
+              "name": "INDIAN-CONSTITUTION-AT-WORK01-CONSTITUTION_WHY_AND_HOW",
+              "children": [
+                {
+                  "type": "file",
+                  "name": "INDIAN-CONSTITUTION-AT-WORK01-CONSTITUTION_WHY_AND_HOW-GLOSSARY.md",
+                  "path": "AI-NOTES/INDIAN-CONSTITUTION-AT-WORK/INDIAN-CONSTITUTION-AT-WORK01-CONSTITUTION_WHY_AND_HOW/INDIAN-CONSTITUTION-AT-WORK01-CONSTITUTION_WHY_AND_HOW-GLOSSARY.md"
+                },
+                {
+                  "type": "file",
+                  "name": "INDIAN-CONSTITUTION-AT-WORK01-CONSTITUTION_WHY_AND_HOW-NOTES.md",
+                  "path": "AI-NOTES/INDIAN-CONSTITUTION-AT-WORK/INDIAN-CONSTITUTION-AT-WORK01-CONSTITUTION_WHY_AND_HOW/INDIAN-CONSTITUTION-AT-WORK01-CONSTITUTION_WHY_AND_HOW-NOTES.md"
+                },
+                {
+                  "type": "file",
+                  "name": "INDIAN-CONSTITUTION-AT-WORK01-CONSTITUTION_WHY_AND_HOW-REVISION_MINDMAPS.md",
+                  "path": "AI-NOTES/INDIAN-CONSTITUTION-AT-WORK/INDIAN-CONSTITUTION-AT-WORK01-CONSTITUTION_WHY_AND_HOW/INDIAN-CONSTITUTION-AT-WORK01-CONSTITUTION_WHY_AND_HOW-REVISION_MINDMAPS.md"
+                }
+              ]
+            },
+            {
+              "type": "folder",
+              "name": "INDIAN-CONSTITUTION-AT-WORK02-RIGHTS_IN_THE_INDIAN_CONSTITUTION",
+              "children": [
+                {
+                  "type": "file",
+                  "name": "INDIAN-CONSTITUTION-AT-WORK02-RIGHTS_IN_THE_INDIAN_CONSTITUTION-GLOSSARY.md",
+                  "path": "AI-NOTES/INDIAN-CONSTITUTION-AT-WORK/INDIAN-CONSTITUTION-AT-WORK02-RIGHTS_IN_THE_INDIAN_CONSTITUTION/INDIAN-CONSTITUTION-AT-WORK02-RIGHTS_IN_THE_INDIAN_CONSTITUTION-GLOSSARY.md"
+                },
+                {
+                  "type": "file",
+                  "name": "INDIAN-CONSTITUTION-AT-WORK02-RIGHTS_IN_THE_INDIAN_CONSTITUTION-NOTES.md",
+                  "path": "AI-NOTES/INDIAN-CONSTITUTION-AT-WORK/INDIAN-CONSTITUTION-AT-WORK02-RIGHTS_IN_THE_INDIAN_CONSTITUTION/INDIAN-CONSTITUTION-AT-WORK02-RIGHTS_IN_THE_INDIAN_CONSTITUTION-NOTES.md"
+                },
+                {
+                  "type": "file",
+                  "name": "INDIAN-CONSTITUTION-AT-WORK02-RIGHTS_IN_THE_INDIAN_CONSTITUTION-REVISION_MINDMAPS.md",
+                  "path": "AI-NOTES/INDIAN-CONSTITUTION-AT-WORK/INDIAN-CONSTITUTION-AT-WORK02-RIGHTS_IN_THE_INDIAN_CONSTITUTION/INDIAN-CONSTITUTION-AT-WORK02-RIGHTS_IN_THE_INDIAN_CONSTITUTION-REVISION_MINDMAPS.md"
+                }
+              ]
+            },
+            {
+              "type": "folder",
+              "name": "INDIAN-CONSTITUTION-AT-WORK03-ELECTION_AND_REPRESENTATION",
+              "children": [
+                {
+                  "type": "file",
+                  "name": "INDIAN-CONSTITUTION-AT-WORK03-ELECTION_AND_REPRESENTATION-GLOSSARY.md",
+                  "path": "AI-NOTES/INDIAN-CONSTITUTION-AT-WORK/INDIAN-CONSTITUTION-AT-WORK03-ELECTION_AND_REPRESENTATION/INDIAN-CONSTITUTION-AT-WORK03-ELECTION_AND_REPRESENTATION-GLOSSARY.md"
+                },
+                {
+                  "type": "file",
+                  "name": "INDIAN-CONSTITUTION-AT-WORK03-ELECTION_AND_REPRESENTATION-NOTES.md",
+                  "path": "AI-NOTES/INDIAN-CONSTITUTION-AT-WORK/INDIAN-CONSTITUTION-AT-WORK03-ELECTION_AND_REPRESENTATION/INDIAN-CONSTITUTION-AT-WORK03-ELECTION_AND_REPRESENTATION-NOTES.md"
+                },
+                {
+                  "type": "file",
+                  "name": "INDIAN-CONSTITUTION-AT-WORK03-ELECTION_AND_REPRESENTATION-REVISION_MINDMAPS.md",
+                  "path": "AI-NOTES/INDIAN-CONSTITUTION-AT-WORK/INDIAN-CONSTITUTION-AT-WORK03-ELECTION_AND_REPRESENTATION/INDIAN-CONSTITUTION-AT-WORK03-ELECTION_AND_REPRESENTATION-REVISION_MINDMAPS.md"
+                }
+              ]
+            },
+            {
+              "type": "folder",
+              "name": "INDIAN-CONSTITUTION-AT-WORK04-EXECUTIVE",
+              "children": [
+                {
+                  "type": "file",
+                  "name": "INDIAN-CONSTITUTION-AT-WORK04-EXECUTIVE-GLOSSARY.md",
+                  "path": "AI-NOTES/INDIAN-CONSTITUTION-AT-WORK/INDIAN-CONSTITUTION-AT-WORK04-EXECUTIVE/INDIAN-CONSTITUTION-AT-WORK04-EXECUTIVE-GLOSSARY.md"
+                },
+                {
+                  "type": "file",
+                  "name": "INDIAN-CONSTITUTION-AT-WORK04-EXECUTIVE-NOTES.md",
+                  "path": "AI-NOTES/INDIAN-CONSTITUTION-AT-WORK/INDIAN-CONSTITUTION-AT-WORK04-EXECUTIVE/INDIAN-CONSTITUTION-AT-WORK04-EXECUTIVE-NOTES.md"
+                },
+                {
+                  "type": "file",
+                  "name": "INDIAN-CONSTITUTION-AT-WORK04-EXECUTIVE-REVISION_MINDMAPS.md",
+                  "path": "AI-NOTES/INDIAN-CONSTITUTION-AT-WORK/INDIAN-CONSTITUTION-AT-WORK04-EXECUTIVE/INDIAN-CONSTITUTION-AT-WORK04-EXECUTIVE-REVISION_MINDMAPS.md"
+                }
+              ]
+            },
+            {
+              "type": "folder",
+              "name": "INDIAN-CONSTITUTION-AT-WORK05-LEGISLATURE",
+              "children": [
+                {
+                  "type": "file",
+                  "name": "INDIAN-CONSTITUTION-AT-WORK05-LEGISLATURE-GLOSSARY.md",
+                  "path": "AI-NOTES/INDIAN-CONSTITUTION-AT-WORK/INDIAN-CONSTITUTION-AT-WORK05-LEGISLATURE/INDIAN-CONSTITUTION-AT-WORK05-LEGISLATURE-GLOSSARY.md"
+                },
+                {
+                  "type": "file",
+                  "name": "INDIAN-CONSTITUTION-AT-WORK05-LEGISLATURE-NOTES.md",
+                  "path": "AI-NOTES/INDIAN-CONSTITUTION-AT-WORK/INDIAN-CONSTITUTION-AT-WORK05-LEGISLATURE/INDIAN-CONSTITUTION-AT-WORK05-LEGISLATURE-NOTES.md"
+                },
+                {
+                  "type": "file",
+                  "name": "INDIAN-CONSTITUTION-AT-WORK05-LEGISLATURE-REVISION_MINDMAPS.md",
+                  "path": "AI-NOTES/INDIAN-CONSTITUTION-AT-WORK/INDIAN-CONSTITUTION-AT-WORK05-LEGISLATURE/INDIAN-CONSTITUTION-AT-WORK05-LEGISLATURE-REVISION_MINDMAPS.md"
+                }
+              ]
+            },
+            {
+              "type": "folder",
+              "name": "INDIAN-CONSTITUTION-AT-WORK06-JUDICIARY",
+              "children": [
+                {
+                  "type": "file",
+                  "name": "INDIAN-CONSTITUTION-AT-WORK06-JUDICIARY-GLOSSARY.md",
+                  "path": "AI-NOTES/INDIAN-CONSTITUTION-AT-WORK/INDIAN-CONSTITUTION-AT-WORK06-JUDICIARY/INDIAN-CONSTITUTION-AT-WORK06-JUDICIARY-GLOSSARY.md"
+                },
+                {
+                  "type": "file",
+                  "name": "INDIAN-CONSTITUTION-AT-WORK06-JUDICIARY-NOTES.md",
+                  "path": "AI-NOTES/INDIAN-CONSTITUTION-AT-WORK/INDIAN-CONSTITUTION-AT-WORK06-JUDICIARY/INDIAN-CONSTITUTION-AT-WORK06-JUDICIARY-NOTES.md"
+                },
+                {
+                  "type": "file",
+                  "name": "INDIAN-CONSTITUTION-AT-WORK06-JUDICIARY-REVISION_MINDMAPS.md",
+                  "path": "AI-NOTES/INDIAN-CONSTITUTION-AT-WORK/INDIAN-CONSTITUTION-AT-WORK06-JUDICIARY/INDIAN-CONSTITUTION-AT-WORK06-JUDICIARY-REVISION_MINDMAPS.md"
+                }
+              ]
+            },
+            {
+              "type": "folder",
+              "name": "INDIAN-CONSTITUTION-AT-WORK07-FEDERALISM",
+              "children": [
+                {
+                  "type": "file",
+                  "name": "INDIAN-CONSTITUTION-AT-WORK07-FEDERALISM-GLOSSARY.md",
+                  "path": "AI-NOTES/INDIAN-CONSTITUTION-AT-WORK/INDIAN-CONSTITUTION-AT-WORK07-FEDERALISM/INDIAN-CONSTITUTION-AT-WORK07-FEDERALISM-GLOSSARY.md"
+                },
+                {
+                  "type": "file",
+                  "name": "INDIAN-CONSTITUTION-AT-WORK07-FEDERALISM-NOTES.md",
+                  "path": "AI-NOTES/INDIAN-CONSTITUTION-AT-WORK/INDIAN-CONSTITUTION-AT-WORK07-FEDERALISM/INDIAN-CONSTITUTION-AT-WORK07-FEDERALISM-NOTES.md"
+                },
+                {
+                  "type": "file",
+                  "name": "INDIAN-CONSTITUTION-AT-WORK07-FEDERALISM-REVISION_MINDMAPS.md",
+                  "path": "AI-NOTES/INDIAN-CONSTITUTION-AT-WORK/INDIAN-CONSTITUTION-AT-WORK07-FEDERALISM/INDIAN-CONSTITUTION-AT-WORK07-FEDERALISM-REVISION_MINDMAPS.md"
+                }
+              ]
+            },
+            {
+              "type": "folder",
+              "name": "INDIAN-CONSTITUTION-AT-WORK08-LOCAL_GOVERNMENTS",
+              "children": [
+                {
+                  "type": "file",
+                  "name": "INDIAN-CONSTITUTION-AT-WORK08-LOCAL_GOVERNMENTS-GLOSSARY.md",
+                  "path": "AI-NOTES/INDIAN-CONSTITUTION-AT-WORK/INDIAN-CONSTITUTION-AT-WORK08-LOCAL_GOVERNMENTS/INDIAN-CONSTITUTION-AT-WORK08-LOCAL_GOVERNMENTS-GLOSSARY.md"
+                },
+                {
+                  "type": "file",
+                  "name": "INDIAN-CONSTITUTION-AT-WORK08-LOCAL_GOVERNMENTS-NOTES.md",
+                  "path": "AI-NOTES/INDIAN-CONSTITUTION-AT-WORK/INDIAN-CONSTITUTION-AT-WORK08-LOCAL_GOVERNMENTS/INDIAN-CONSTITUTION-AT-WORK08-LOCAL_GOVERNMENTS-NOTES.md"
+                },
+                {
+                  "type": "file",
+                  "name": "INDIAN-CONSTITUTION-AT-WORK08-LOCAL_GOVERNMENTS-REVISION_MINDMAPS.md",
+                  "path": "AI-NOTES/INDIAN-CONSTITUTION-AT-WORK/INDIAN-CONSTITUTION-AT-WORK08-LOCAL_GOVERNMENTS/INDIAN-CONSTITUTION-AT-WORK08-LOCAL_GOVERNMENTS-REVISION_MINDMAPS.md"
+                }
+              ]
+            },
+            {
+              "type": "folder",
+              "name": "INDIAN-CONSTITUTION-AT-WORK09-CONSTITUTION_AS_A_LIVING_DOCUMENT",
+              "children": [
+                {
+                  "type": "file",
+                  "name": "INDIAN-CONSTITUTION-AT-WORK09-CONSTITUTION_AS_A_LIVING_DOCUMENT-GLOSSARY.md",
+                  "path": "AI-NOTES/INDIAN-CONSTITUTION-AT-WORK/INDIAN-CONSTITUTION-AT-WORK09-CONSTITUTION_AS_A_LIVING_DOCUMENT/INDIAN-CONSTITUTION-AT-WORK09-CONSTITUTION_AS_A_LIVING_DOCUMENT-GLOSSARY.md"
+                },
+                {
+                  "type": "file",
+                  "name": "INDIAN-CONSTITUTION-AT-WORK09-CONSTITUTION_AS_A_LIVING_DOCUMENT-NOTES.md",
+                  "path": "AI-NOTES/INDIAN-CONSTITUTION-AT-WORK/INDIAN-CONSTITUTION-AT-WORK09-CONSTITUTION_AS_A_LIVING_DOCUMENT/INDIAN-CONSTITUTION-AT-WORK09-CONSTITUTION_AS_A_LIVING_DOCUMENT-NOTES.md"
+                },
+                {
+                  "type": "file",
+                  "name": "INDIAN-CONSTITUTION-AT-WORK09-CONSTITUTION_AS_A_LIVING_DOCUMENT-REVISION_MINDMAPS.md",
+                  "path": "AI-NOTES/INDIAN-CONSTITUTION-AT-WORK/INDIAN-CONSTITUTION-AT-WORK09-CONSTITUTION_AS_A_LIVING_DOCUMENT/INDIAN-CONSTITUTION-AT-WORK09-CONSTITUTION_AS_A_LIVING_DOCUMENT-REVISION_MINDMAPS.md"
+                }
+              ]
+            },
+            {
+              "type": "folder",
+              "name": "INDIAN-CONSTITUTION-AT-WORK10-THE_PHILOSOPHY_OF_THE_CONSTITUTION",
+              "children": [
+                {
+                  "type": "file",
+                  "name": "INDIAN-CONSTITUTION-AT-WORK10-THE_PHILOSOPHY_OF_THE_CONSTITUTION-GLOSSARY.md",
+                  "path": "AI-NOTES/INDIAN-CONSTITUTION-AT-WORK/INDIAN-CONSTITUTION-AT-WORK10-THE_PHILOSOPHY_OF_THE_CONSTITUTION/INDIAN-CONSTITUTION-AT-WORK10-THE_PHILOSOPHY_OF_THE_CONSTITUTION-GLOSSARY.md"
+                },
+                {
+                  "type": "file",
+                  "name": "INDIAN-CONSTITUTION-AT-WORK10-THE_PHILOSOPHY_OF_THE_CONSTITUTION-NOTES.md",
+                  "path": "AI-NOTES/INDIAN-CONSTITUTION-AT-WORK/INDIAN-CONSTITUTION-AT-WORK10-THE_PHILOSOPHY_OF_THE_CONSTITUTION/INDIAN-CONSTITUTION-AT-WORK10-THE_PHILOSOPHY_OF_THE_CONSTITUTION-NOTES.md"
+                },
+                {
+                  "type": "file",
+                  "name": "INDIAN-CONSTITUTION-AT-WORK10-THE_PHILOSOPHY_OF_THE_CONSTITUTION-REVISION_MINDMAPS.md",
+                  "path": "AI-NOTES/INDIAN-CONSTITUTION-AT-WORK/INDIAN-CONSTITUTION-AT-WORK10-THE_PHILOSOPHY_OF_THE_CONSTITUTION/INDIAN-CONSTITUTION-AT-WORK10-THE_PHILOSOPHY_OF_THE_CONSTITUTION-REVISION_MINDMAPS.md"
+                }
+              ]
+            }
+          ]
         },
         {
-          "type": "file",
-          "name": "MINDMAP.md",
-          "path": "AI-NOTES/MINDMAP.md"
+          "type": "folder",
+          "name": "INTRODUCING-SOCIOLOGY",
+          "children": [
+            {
+              "type": "folder",
+              "name": "INTRODUCING-SOCIOLOGY01-SOCIETY_AND_SOCIOLOGY",
+              "children": [
+                {
+                  "type": "file",
+                  "name": "INTRODUCING-SOCIOLOGY01-SOCIETY_AND_SOCIOLOGY-GLOSSARY.md",
+                  "path": "AI-NOTES/INTRODUCING-SOCIOLOGY/INTRODUCING-SOCIOLOGY01-SOCIETY_AND_SOCIOLOGY/INTRODUCING-SOCIOLOGY01-SOCIETY_AND_SOCIOLOGY-GLOSSARY.md"
+                },
+                {
+                  "type": "file",
+                  "name": "INTRODUCING-SOCIOLOGY01-SOCIETY_AND_SOCIOLOGY-NOTES.md",
+                  "path": "AI-NOTES/INTRODUCING-SOCIOLOGY/INTRODUCING-SOCIOLOGY01-SOCIETY_AND_SOCIOLOGY/INTRODUCING-SOCIOLOGY01-SOCIETY_AND_SOCIOLOGY-NOTES.md"
+                },
+                {
+                  "type": "file",
+                  "name": "INTRODUCING-SOCIOLOGY01-SOCIETY_AND_SOCIOLOGY-REVISION_MINDMAPS.md",
+                  "path": "AI-NOTES/INTRODUCING-SOCIOLOGY/INTRODUCING-SOCIOLOGY01-SOCIETY_AND_SOCIOLOGY/INTRODUCING-SOCIOLOGY01-SOCIETY_AND_SOCIOLOGY-REVISION_MINDMAPS.md"
+                }
+              ]
+            },
+            {
+              "type": "folder",
+              "name": "INTRODUCING-SOCIOLOGY02-SOCIAL_CHANGE_AND_SOCIAL_ORDER",
+              "children": [
+                {
+                  "type": "file",
+                  "name": "INTRODUCING-SOCIOLOGY02-SOCIAL_CHANGE_AND_SOCIAL_ORDER-GLOSSARY.md",
+                  "path": "AI-NOTES/INTRODUCING-SOCIOLOGY/INTRODUCING-SOCIOLOGY02-SOCIAL_CHANGE_AND_SOCIAL_ORDER/INTRODUCING-SOCIOLOGY02-SOCIAL_CHANGE_AND_SOCIAL_ORDER-GLOSSARY.md"
+                },
+                {
+                  "type": "file",
+                  "name": "INTRODUCING-SOCIOLOGY02-SOCIAL_CHANGE_AND_SOCIAL_ORDER-NOTES.md",
+                  "path": "AI-NOTES/INTRODUCING-SOCIOLOGY/INTRODUCING-SOCIOLOGY02-SOCIAL_CHANGE_AND_SOCIAL_ORDER/INTRODUCING-SOCIOLOGY02-SOCIAL_CHANGE_AND_SOCIAL_ORDER-NOTES.md"
+                },
+                {
+                  "type": "file",
+                  "name": "INTRODUCING-SOCIOLOGY02-SOCIAL_CHANGE_AND_SOCIAL_ORDER-REVISION_MINDMAPS.md",
+                  "path": "AI-NOTES/INTRODUCING-SOCIOLOGY/INTRODUCING-SOCIOLOGY02-SOCIAL_CHANGE_AND_SOCIAL_ORDER/INTRODUCING-SOCIOLOGY02-SOCIAL_CHANGE_AND_SOCIAL_ORDER-REVISION_MINDMAPS.md"
+                }
+              ]
+            },
+            {
+              "type": "folder",
+              "name": "INTRODUCING-SOCIOLOGY03-ENVIRONMENT_AND_SOCIETY",
+              "children": [
+                {
+                  "type": "file",
+                  "name": "INTRODUCING-SOCIOLOGY03-ENVIRONMENT_AND_SOCIETY-GLOSSARY.md",
+                  "path": "AI-NOTES/INTRODUCING-SOCIOLOGY/INTRODUCING-SOCIOLOGY03-ENVIRONMENT_AND_SOCIETY/INTRODUCING-SOCIOLOGY03-ENVIRONMENT_AND_SOCIETY-GLOSSARY.md"
+                },
+                {
+                  "type": "file",
+                  "name": "INTRODUCING-SOCIOLOGY03-ENVIRONMENT_AND_SOCIETY-NOTES.md",
+                  "path": "AI-NOTES/INTRODUCING-SOCIOLOGY/INTRODUCING-SOCIOLOGY03-ENVIRONMENT_AND_SOCIETY/INTRODUCING-SOCIOLOGY03-ENVIRONMENT_AND_SOCIETY-NOTES.md"
+                },
+                {
+                  "type": "file",
+                  "name": "INTRODUCING-SOCIOLOGY03-ENVIRONMENT_AND_SOCIETY-REVISION_MINDMAPS.md",
+                  "path": "AI-NOTES/INTRODUCING-SOCIOLOGY/INTRODUCING-SOCIOLOGY03-ENVIRONMENT_AND_SOCIETY/INTRODUCING-SOCIOLOGY03-ENVIRONMENT_AND_SOCIETY-REVISION_MINDMAPS.md"
+                }
+              ]
+            },
+            {
+              "type": "folder",
+              "name": "INTRODUCING-SOCIOLOGY04-INTRODUCING_WESTERN_SOCIOLOGISTS",
+              "children": [
+                {
+                  "type": "file",
+                  "name": "INTRODUCING-SOCIOLOGY04-INTRODUCING_WESTERN_SOCIOLOGISTS-GLOSSARY.md",
+                  "path": "AI-NOTES/INTRODUCING-SOCIOLOGY/INTRODUCING-SOCIOLOGY04-INTRODUCING_WESTERN_SOCIOLOGISTS/INTRODUCING-SOCIOLOGY04-INTRODUCING_WESTERN_SOCIOLOGISTS-GLOSSARY.md"
+                },
+                {
+                  "type": "file",
+                  "name": "INTRODUCING-SOCIOLOGY04-INTRODUCING_WESTERN_SOCIOLOGISTS-NOTES.md",
+                  "path": "AI-NOTES/INTRODUCING-SOCIOLOGY/INTRODUCING-SOCIOLOGY04-INTRODUCING_WESTERN_SOCIOLOGISTS/INTRODUCING-SOCIOLOGY04-INTRODUCING_WESTERN_SOCIOLOGISTS-NOTES.md"
+                },
+                {
+                  "type": "file",
+                  "name": "INTRODUCING-SOCIOLOGY04-INTRODUCING_WESTERN_SOCIOLOGISTS-REVISION_MINDMAPS.md",
+                  "path": "AI-NOTES/INTRODUCING-SOCIOLOGY/INTRODUCING-SOCIOLOGY04-INTRODUCING_WESTERN_SOCIOLOGISTS/INTRODUCING-SOCIOLOGY04-INTRODUCING_WESTERN_SOCIOLOGISTS-REVISION_MINDMAPS.md"
+                }
+              ]
+            },
+            {
+              "type": "folder",
+              "name": "INTRODUCING-SOCIOLOGY05-INDIAN_SOCIOLOGISTS",
+              "children": [
+                {
+                  "type": "file",
+                  "name": "INTRODUCING-SOCIOLOGY05-INDIAN_SOCIOLOGISTS-GLOSSARY.md",
+                  "path": "AI-NOTES/INTRODUCING-SOCIOLOGY/INTRODUCING-SOCIOLOGY05-INDIAN_SOCIOLOGISTS/INTRODUCING-SOCIOLOGY05-INDIAN_SOCIOLOGISTS-GLOSSARY.md"
+                },
+                {
+                  "type": "file",
+                  "name": "INTRODUCING-SOCIOLOGY05-INDIAN_SOCIOLOGISTS-NOTES.md",
+                  "path": "AI-NOTES/INTRODUCING-SOCIOLOGY/INTRODUCING-SOCIOLOGY05-INDIAN_SOCIOLOGISTS/INTRODUCING-SOCIOLOGY05-INDIAN_SOCIOLOGISTS-NOTES.md"
+                },
+                {
+                  "type": "file",
+                  "name": "INTRODUCING-SOCIOLOGY05-INDIAN_SOCIOLOGISTS-REVISION_MINDMAPS.md",
+                  "path": "AI-NOTES/INTRODUCING-SOCIOLOGY/INTRODUCING-SOCIOLOGY05-INDIAN_SOCIOLOGISTS/INTRODUCING-SOCIOLOGY05-INDIAN_SOCIOLOGISTS-REVISION_MINDMAPS.md"
+                }
+              ]
+            }
+          ]
         },
         {
-          "type": "file",
-          "name": "NOTES.md",
-          "path": "AI-NOTES/NOTES.md"
+          "type": "folder",
+          "name": "MICROECONOMICS",
+          "children": [
+            {
+              "type": "folder",
+              "name": "MICROECONOMICS01-INTRODUCTION",
+              "children": [
+                {
+                  "type": "file",
+                  "name": "MICROECONOMICS01-INTRODUCTION-GLOSSARY.md",
+                  "path": "AI-NOTES/MICROECONOMICS/MICROECONOMICS01-INTRODUCTION/MICROECONOMICS01-INTRODUCTION-GLOSSARY.md"
+                },
+                {
+                  "type": "file",
+                  "name": "MICROECONOMICS01-INTRODUCTION-NOTES.md",
+                  "path": "AI-NOTES/MICROECONOMICS/MICROECONOMICS01-INTRODUCTION/MICROECONOMICS01-INTRODUCTION-NOTES.md"
+                },
+                {
+                  "type": "file",
+                  "name": "MICROECONOMICS01-INTRODUCTION-REVISION_MINDMAPS.md",
+                  "path": "AI-NOTES/MICROECONOMICS/MICROECONOMICS01-INTRODUCTION/MICROECONOMICS01-INTRODUCTION-REVISION_MINDMAPS.md"
+                }
+              ]
+            },
+            {
+              "type": "folder",
+              "name": "MICROECONOMICS02-THEORY_OF_CONSUMER_BEHAVIOUR",
+              "children": [
+                {
+                  "type": "file",
+                  "name": "MICROECONOMICS02-THEORY_OF_CONSUMER_BEHAVIOUR-GLOSSARY.md",
+                  "path": "AI-NOTES/MICROECONOMICS/MICROECONOMICS02-THEORY_OF_CONSUMER_BEHAVIOUR/MICROECONOMICS02-THEORY_OF_CONSUMER_BEHAVIOUR-GLOSSARY.md"
+                },
+                {
+                  "type": "file",
+                  "name": "MICROECONOMICS02-THEORY_OF_CONSUMER_BEHAVIOUR-NOTES.md",
+                  "path": "AI-NOTES/MICROECONOMICS/MICROECONOMICS02-THEORY_OF_CONSUMER_BEHAVIOUR/MICROECONOMICS02-THEORY_OF_CONSUMER_BEHAVIOUR-NOTES.md"
+                },
+                {
+                  "type": "file",
+                  "name": "MICROECONOMICS02-THEORY_OF_CONSUMER_BEHAVIOUR-REVISION_MINDMAPS.md",
+                  "path": "AI-NOTES/MICROECONOMICS/MICROECONOMICS02-THEORY_OF_CONSUMER_BEHAVIOUR/MICROECONOMICS02-THEORY_OF_CONSUMER_BEHAVIOUR-REVISION_MINDMAPS.md"
+                }
+              ]
+            },
+            {
+              "type": "folder",
+              "name": "MICROECONOMICS03-PRODUCTION_AND_COSTS",
+              "children": [
+                {
+                  "type": "file",
+                  "name": "MICROECONOMICS03-PRODUCTION_AND_COSTS-GLOSSARY.md",
+                  "path": "AI-NOTES/MICROECONOMICS/MICROECONOMICS03-PRODUCTION_AND_COSTS/MICROECONOMICS03-PRODUCTION_AND_COSTS-GLOSSARY.md"
+                },
+                {
+                  "type": "file",
+                  "name": "MICROECONOMICS03-PRODUCTION_AND_COSTS-NOTES.md",
+                  "path": "AI-NOTES/MICROECONOMICS/MICROECONOMICS03-PRODUCTION_AND_COSTS/MICROECONOMICS03-PRODUCTION_AND_COSTS-NOTES.md"
+                },
+                {
+                  "type": "file",
+                  "name": "MICROECONOMICS03-PRODUCTION_AND_COSTS-REVISION_MINDMAPS.md",
+                  "path": "AI-NOTES/MICROECONOMICS/MICROECONOMICS03-PRODUCTION_AND_COSTS/MICROECONOMICS03-PRODUCTION_AND_COSTS-REVISION_MINDMAPS.md"
+                }
+              ]
+            },
+            {
+              "type": "folder",
+              "name": "MICROECONOMICS04-THE_THEORY_OF_THE_FIRM_UNDER_PERFECT_COMPETITION",
+              "children": [
+                {
+                  "type": "file",
+                  "name": "MICROECONOMICS04-THE_THEORY_OF_THE_FIRM_UNDER_PERFECT_COMPETITION-GLOSSARY.md",
+                  "path": "AI-NOTES/MICROECONOMICS/MICROECONOMICS04-THE_THEORY_OF_THE_FIRM_UNDER_PERFECT_COMPETITION/MICROECONOMICS04-THE_THEORY_OF_THE_FIRM_UNDER_PERFECT_COMPETITION-GLOSSARY.md"
+                },
+                {
+                  "type": "file",
+                  "name": "MICROECONOMICS04-THE_THEORY_OF_THE_FIRM_UNDER_PERFECT_COMPETITION-NOTES.md",
+                  "path": "AI-NOTES/MICROECONOMICS/MICROECONOMICS04-THE_THEORY_OF_THE_FIRM_UNDER_PERFECT_COMPETITION/MICROECONOMICS04-THE_THEORY_OF_THE_FIRM_UNDER_PERFECT_COMPETITION-NOTES.md"
+                },
+                {
+                  "type": "file",
+                  "name": "MICROECONOMICS04-THE_THEORY_OF_THE_FIRM_UNDER_PERFECT_COMPETITION-REVISION_MINDMAPS.md",
+                  "path": "AI-NOTES/MICROECONOMICS/MICROECONOMICS04-THE_THEORY_OF_THE_FIRM_UNDER_PERFECT_COMPETITION/MICROECONOMICS04-THE_THEORY_OF_THE_FIRM_UNDER_PERFECT_COMPETITION-REVISION_MINDMAPS.md"
+                }
+              ]
+            },
+            {
+              "type": "folder",
+              "name": "MICROECONOMICS05-MARKET_EQUILIBRIUM",
+              "children": [
+                {
+                  "type": "file",
+                  "name": "MICROECONOMICS05-MARKET_EQUILIBRIUM-GLOSSARY.md",
+                  "path": "AI-NOTES/MICROECONOMICS/MICROECONOMICS05-MARKET_EQUILIBRIUM/MICROECONOMICS05-MARKET_EQUILIBRIUM-GLOSSARY.md"
+                },
+                {
+                  "type": "file",
+                  "name": "MICROECONOMICS05-MARKET_EQUILIBRIUM-NOTES.md",
+                  "path": "AI-NOTES/MICROECONOMICS/MICROECONOMICS05-MARKET_EQUILIBRIUM/MICROECONOMICS05-MARKET_EQUILIBRIUM-NOTES.md"
+                },
+                {
+                  "type": "file",
+                  "name": "MICROECONOMICS05-MARKET_EQUILIBRIUM-REVISION_MINDMAPS.md",
+                  "path": "AI-NOTES/MICROECONOMICS/MICROECONOMICS05-MARKET_EQUILIBRIUM/MICROECONOMICS05-MARKET_EQUILIBRIUM-REVISION_MINDMAPS.md"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "folder",
+          "name": "POLITICAL-THEORY",
+          "children": [
+            {
+              "type": "folder",
+              "name": "POLITICAL-THEORY01-POLITICAL_THEORY_AN_INTRODUCTION",
+              "children": [
+                {
+                  "type": "file",
+                  "name": "POLITICAL-THEORY01-POLITICAL_THEORY_AN_INTRODUCTION-GLOSSARY.md",
+                  "path": "AI-NOTES/POLITICAL-THEORY/POLITICAL-THEORY01-POLITICAL_THEORY_AN_INTRODUCTION/POLITICAL-THEORY01-POLITICAL_THEORY_AN_INTRODUCTION-GLOSSARY.md"
+                },
+                {
+                  "type": "file",
+                  "name": "POLITICAL-THEORY01-POLITICAL_THEORY_AN_INTRODUCTION-NOTES.md",
+                  "path": "AI-NOTES/POLITICAL-THEORY/POLITICAL-THEORY01-POLITICAL_THEORY_AN_INTRODUCTION/POLITICAL-THEORY01-POLITICAL_THEORY_AN_INTRODUCTION-NOTES.md"
+                },
+                {
+                  "type": "file",
+                  "name": "POLITICAL-THEORY01-POLITICAL_THEORY_AN_INTRODUCTION-REVISION_MINDMAPS.md",
+                  "path": "AI-NOTES/POLITICAL-THEORY/POLITICAL-THEORY01-POLITICAL_THEORY_AN_INTRODUCTION/POLITICAL-THEORY01-POLITICAL_THEORY_AN_INTRODUCTION-REVISION_MINDMAPS.md"
+                }
+              ]
+            },
+            {
+              "type": "folder",
+              "name": "POLITICAL-THEORY02-FREEDOM",
+              "children": [
+                {
+                  "type": "file",
+                  "name": "POLITICAL-THEORY02-FREEDOM-GLOSSARY.md",
+                  "path": "AI-NOTES/POLITICAL-THEORY/POLITICAL-THEORY02-FREEDOM/POLITICAL-THEORY02-FREEDOM-GLOSSARY.md"
+                },
+                {
+                  "type": "file",
+                  "name": "POLITICAL-THEORY02-FREEDOM-NOTES.md",
+                  "path": "AI-NOTES/POLITICAL-THEORY/POLITICAL-THEORY02-FREEDOM/POLITICAL-THEORY02-FREEDOM-NOTES.md"
+                },
+                {
+                  "type": "file",
+                  "name": "POLITICAL-THEORY02-FREEDOM-REVISION_MINDMAPS.md",
+                  "path": "AI-NOTES/POLITICAL-THEORY/POLITICAL-THEORY02-FREEDOM/POLITICAL-THEORY02-FREEDOM-REVISION_MINDMAPS.md"
+                }
+              ]
+            },
+            {
+              "type": "folder",
+              "name": "POLITICAL-THEORY03-EQUALITY",
+              "children": [
+                {
+                  "type": "file",
+                  "name": "POLITICAL-THEORY03-EQUALITY-GLOSSARY.md",
+                  "path": "AI-NOTES/POLITICAL-THEORY/POLITICAL-THEORY03-EQUALITY/POLITICAL-THEORY03-EQUALITY-GLOSSARY.md"
+                },
+                {
+                  "type": "file",
+                  "name": "POLITICAL-THEORY03-EQUALITY-NOTES.md",
+                  "path": "AI-NOTES/POLITICAL-THEORY/POLITICAL-THEORY03-EQUALITY/POLITICAL-THEORY03-EQUALITY-NOTES.md"
+                },
+                {
+                  "type": "file",
+                  "name": "POLITICAL-THEORY03-EQUALITY-REVISION_MINDMAPS.md",
+                  "path": "AI-NOTES/POLITICAL-THEORY/POLITICAL-THEORY03-EQUALITY/POLITICAL-THEORY03-EQUALITY-REVISION_MINDMAPS.md"
+                }
+              ]
+            },
+            {
+              "type": "folder",
+              "name": "POLITICAL-THEORY04-SOCIAL_JUSTICE",
+              "children": [
+                {
+                  "type": "file",
+                  "name": "POLITICAL-THEORY04-SOCIAL_JUSTICE-GLOSSARY.md",
+                  "path": "AI-NOTES/POLITICAL-THEORY/POLITICAL-THEORY04-SOCIAL_JUSTICE/POLITICAL-THEORY04-SOCIAL_JUSTICE-GLOSSARY.md"
+                },
+                {
+                  "type": "file",
+                  "name": "POLITICAL-THEORY04-SOCIAL_JUSTICE-NOTES.md",
+                  "path": "AI-NOTES/POLITICAL-THEORY/POLITICAL-THEORY04-SOCIAL_JUSTICE/POLITICAL-THEORY04-SOCIAL_JUSTICE-NOTES.md"
+                },
+                {
+                  "type": "file",
+                  "name": "POLITICAL-THEORY04-SOCIAL_JUSTICE-REVISION_MINDMAPS.md",
+                  "path": "AI-NOTES/POLITICAL-THEORY/POLITICAL-THEORY04-SOCIAL_JUSTICE/POLITICAL-THEORY04-SOCIAL_JUSTICE-REVISION_MINDMAPS.md"
+                }
+              ]
+            },
+            {
+              "type": "folder",
+              "name": "POLITICAL-THEORY05-RIGHTS",
+              "children": [
+                {
+                  "type": "file",
+                  "name": "POLITICAL-THEORY05-RIGHTS-GLOSSARY.md",
+                  "path": "AI-NOTES/POLITICAL-THEORY/POLITICAL-THEORY05-RIGHTS/POLITICAL-THEORY05-RIGHTS-GLOSSARY.md"
+                },
+                {
+                  "type": "file",
+                  "name": "POLITICAL-THEORY05-RIGHTS-NOTES.md",
+                  "path": "AI-NOTES/POLITICAL-THEORY/POLITICAL-THEORY05-RIGHTS/POLITICAL-THEORY05-RIGHTS-NOTES.md"
+                },
+                {
+                  "type": "file",
+                  "name": "POLITICAL-THEORY05-RIGHTS-REVISION_MINDMAPS.md",
+                  "path": "AI-NOTES/POLITICAL-THEORY/POLITICAL-THEORY05-RIGHTS/POLITICAL-THEORY05-RIGHTS-REVISION_MINDMAPS.md"
+                }
+              ]
+            },
+            {
+              "type": "folder",
+              "name": "POLITICAL-THEORY06-CITIZENSHIP",
+              "children": [
+                {
+                  "type": "file",
+                  "name": "POLITICAL-THEORY06-CITIZENSHIP-GLOSSARY.md",
+                  "path": "AI-NOTES/POLITICAL-THEORY/POLITICAL-THEORY06-CITIZENSHIP/POLITICAL-THEORY06-CITIZENSHIP-GLOSSARY.md"
+                },
+                {
+                  "type": "file",
+                  "name": "POLITICAL-THEORY06-CITIZENSHIP-NOTES.md",
+                  "path": "AI-NOTES/POLITICAL-THEORY/POLITICAL-THEORY06-CITIZENSHIP/POLITICAL-THEORY06-CITIZENSHIP-NOTES.md"
+                },
+                {
+                  "type": "file",
+                  "name": "POLITICAL-THEORY06-CITIZENSHIP-REVISION_MINDMAPS.md",
+                  "path": "AI-NOTES/POLITICAL-THEORY/POLITICAL-THEORY06-CITIZENSHIP/POLITICAL-THEORY06-CITIZENSHIP-REVISION_MINDMAPS.md"
+                }
+              ]
+            },
+            {
+              "type": "folder",
+              "name": "POLITICAL-THEORY07-NATIONALISM",
+              "children": [
+                {
+                  "type": "file",
+                  "name": "POLITICAL-THEORY07-NATIONALISM-GLOSSARY.md",
+                  "path": "AI-NOTES/POLITICAL-THEORY/POLITICAL-THEORY07-NATIONALISM/POLITICAL-THEORY07-NATIONALISM-GLOSSARY.md"
+                },
+                {
+                  "type": "file",
+                  "name": "POLITICAL-THEORY07-NATIONALISM-NOTES.md",
+                  "path": "AI-NOTES/POLITICAL-THEORY/POLITICAL-THEORY07-NATIONALISM/POLITICAL-THEORY07-NATIONALISM-NOTES.md"
+                },
+                {
+                  "type": "file",
+                  "name": "POLITICAL-THEORY07-NATIONALISM-REVISION_MINDMAPS.md",
+                  "path": "AI-NOTES/POLITICAL-THEORY/POLITICAL-THEORY07-NATIONALISM/POLITICAL-THEORY07-NATIONALISM-REVISION_MINDMAPS.md"
+                }
+              ]
+            },
+            {
+              "type": "folder",
+              "name": "POLITICAL-THEORY08-SECULARISM",
+              "children": [
+                {
+                  "type": "file",
+                  "name": "POLITICAL-THEORY08-SECULARISM-GLOSSARY.md",
+                  "path": "AI-NOTES/POLITICAL-THEORY/POLITICAL-THEORY08-SECULARISM/POLITICAL-THEORY08-SECULARISM-GLOSSARY.md"
+                },
+                {
+                  "type": "file",
+                  "name": "POLITICAL-THEORY08-SECULARISM-NOTES.md",
+                  "path": "AI-NOTES/POLITICAL-THEORY/POLITICAL-THEORY08-SECULARISM/POLITICAL-THEORY08-SECULARISM-NOTES.md"
+                },
+                {
+                  "type": "file",
+                  "name": "POLITICAL-THEORY08-SECULARISM-REVISION_MINDMAPS.md",
+                  "path": "AI-NOTES/POLITICAL-THEORY/POLITICAL-THEORY08-SECULARISM/POLITICAL-THEORY08-SECULARISM-REVISION_MINDMAPS.md"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "folder",
+          "name": "STATISTICS",
+          "children": [
+            {
+              "type": "folder",
+              "name": "STATISTICS01-INTRODUCTION",
+              "children": [
+                {
+                  "type": "file",
+                  "name": "STATISTICS01-INTRODUCTION-GLOSSARY.md",
+                  "path": "AI-NOTES/STATISTICS/STATISTICS01-INTRODUCTION/STATISTICS01-INTRODUCTION-GLOSSARY.md"
+                },
+                {
+                  "type": "file",
+                  "name": "STATISTICS01-INTRODUCTION-NOTES.md",
+                  "path": "AI-NOTES/STATISTICS/STATISTICS01-INTRODUCTION/STATISTICS01-INTRODUCTION-NOTES.md"
+                },
+                {
+                  "type": "file",
+                  "name": "STATISTICS01-INTRODUCTION-REVISION_MINDMAPS.md",
+                  "path": "AI-NOTES/STATISTICS/STATISTICS01-INTRODUCTION/STATISTICS01-INTRODUCTION-REVISION_MINDMAPS.md"
+                }
+              ]
+            },
+            {
+              "type": "folder",
+              "name": "STATISTICS02-COLLECTION_OF_DATA",
+              "children": [
+                {
+                  "type": "file",
+                  "name": "STATISTICS02-COLLECTION_OF_DATA-GLOSSARY.md",
+                  "path": "AI-NOTES/STATISTICS/STATISTICS02-COLLECTION_OF_DATA/STATISTICS02-COLLECTION_OF_DATA-GLOSSARY.md"
+                },
+                {
+                  "type": "file",
+                  "name": "STATISTICS02-COLLECTION_OF_DATA-NOTES.md",
+                  "path": "AI-NOTES/STATISTICS/STATISTICS02-COLLECTION_OF_DATA/STATISTICS02-COLLECTION_OF_DATA-NOTES.md"
+                },
+                {
+                  "type": "file",
+                  "name": "STATISTICS02-COLLECTION_OF_DATA-REVISION_MINDMAPS.md",
+                  "path": "AI-NOTES/STATISTICS/STATISTICS02-COLLECTION_OF_DATA/STATISTICS02-COLLECTION_OF_DATA-REVISION_MINDMAPS.md"
+                }
+              ]
+            },
+            {
+              "type": "folder",
+              "name": "STATISTICS03-ORGANISATION_OF_DATA",
+              "children": [
+                {
+                  "type": "file",
+                  "name": "STATISTICS03-ORGANISATION_OF_DATA-GLOSSARY.md",
+                  "path": "AI-NOTES/STATISTICS/STATISTICS03-ORGANISATION_OF_DATA/STATISTICS03-ORGANISATION_OF_DATA-GLOSSARY.md"
+                },
+                {
+                  "type": "file",
+                  "name": "STATISTICS03-ORGANISATION_OF_DATA-NOTES.md",
+                  "path": "AI-NOTES/STATISTICS/STATISTICS03-ORGANISATION_OF_DATA/STATISTICS03-ORGANISATION_OF_DATA-NOTES.md"
+                },
+                {
+                  "type": "file",
+                  "name": "STATISTICS03-ORGANISATION_OF_DATA-REVISION_MINDMAPS.md",
+                  "path": "AI-NOTES/STATISTICS/STATISTICS03-ORGANISATION_OF_DATA/STATISTICS03-ORGANISATION_OF_DATA-REVISION_MINDMAPS.md"
+                }
+              ]
+            },
+            {
+              "type": "folder",
+              "name": "STATISTICS04-PRESENTATION_OF_DATA",
+              "children": [
+                {
+                  "type": "file",
+                  "name": "STATISTICS04-PRESENTATION_OF_DATA-GLOSSARY.md",
+                  "path": "AI-NOTES/STATISTICS/STATISTICS04-PRESENTATION_OF_DATA/STATISTICS04-PRESENTATION_OF_DATA-GLOSSARY.md"
+                },
+                {
+                  "type": "file",
+                  "name": "STATISTICS04-PRESENTATION_OF_DATA-NOTES.md",
+                  "path": "AI-NOTES/STATISTICS/STATISTICS04-PRESENTATION_OF_DATA/STATISTICS04-PRESENTATION_OF_DATA-NOTES.md"
+                },
+                {
+                  "type": "file",
+                  "name": "STATISTICS04-PRESENTATION_OF_DATA-REVISION_MINDMAPS.md",
+                  "path": "AI-NOTES/STATISTICS/STATISTICS04-PRESENTATION_OF_DATA/STATISTICS04-PRESENTATION_OF_DATA-REVISION_MINDMAPS.md"
+                }
+              ]
+            },
+            {
+              "type": "folder",
+              "name": "STATISTICS05-MEASURES_OF_CENTRAL_TENDENCY",
+              "children": [
+                {
+                  "type": "file",
+                  "name": "STATISTICS05-MEASURES_OF_CENTRAL_TENDENCY-GLOSSARY.md",
+                  "path": "AI-NOTES/STATISTICS/STATISTICS05-MEASURES_OF_CENTRAL_TENDENCY/STATISTICS05-MEASURES_OF_CENTRAL_TENDENCY-GLOSSARY.md"
+                },
+                {
+                  "type": "file",
+                  "name": "STATISTICS05-MEASURES_OF_CENTRAL_TENDENCY-NOTES.md",
+                  "path": "AI-NOTES/STATISTICS/STATISTICS05-MEASURES_OF_CENTRAL_TENDENCY/STATISTICS05-MEASURES_OF_CENTRAL_TENDENCY-NOTES.md"
+                },
+                {
+                  "type": "file",
+                  "name": "STATISTICS05-MEASURES_OF_CENTRAL_TENDENCY-REVISION_MINDMAPS.md",
+                  "path": "AI-NOTES/STATISTICS/STATISTICS05-MEASURES_OF_CENTRAL_TENDENCY/STATISTICS05-MEASURES_OF_CENTRAL_TENDENCY-REVISION_MINDMAPS.md"
+                }
+              ]
+            },
+            {
+              "type": "folder",
+              "name": "STATISTICS06-MEASURES_OF_DISPERSION",
+              "children": [
+                {
+                  "type": "file",
+                  "name": "STATISTICS06-MEASURES_OF_DISPERSION-GLOSSARY.md",
+                  "path": "AI-NOTES/STATISTICS/STATISTICS06-MEASURES_OF_DISPERSION/STATISTICS06-MEASURES_OF_DISPERSION-GLOSSARY.md"
+                },
+                {
+                  "type": "file",
+                  "name": "STATISTICS06-MEASURES_OF_DISPERSION-NOTES.md",
+                  "path": "AI-NOTES/STATISTICS/STATISTICS06-MEASURES_OF_DISPERSION/STATISTICS06-MEASURES_OF_DISPERSION-NOTES.md"
+                },
+                {
+                  "type": "file",
+                  "name": "STATISTICS06-MEASURES_OF_DISPERSION-REVISION_MINDMAPS.md",
+                  "path": "AI-NOTES/STATISTICS/STATISTICS06-MEASURES_OF_DISPERSION/STATISTICS06-MEASURES_OF_DISPERSION-REVISION_MINDMAPS.md"
+                }
+              ]
+            },
+            {
+              "type": "folder",
+              "name": "STATISTICS07-CORRELATION",
+              "children": [
+                {
+                  "type": "file",
+                  "name": "STATISTICS07-CORRELATION-GLOSSARY.md",
+                  "path": "AI-NOTES/STATISTICS/STATISTICS07-CORRELATION/STATISTICS07-CORRELATION-GLOSSARY.md"
+                },
+                {
+                  "type": "file",
+                  "name": "STATISTICS07-CORRELATION-NOTES.md",
+                  "path": "AI-NOTES/STATISTICS/STATISTICS07-CORRELATION/STATISTICS07-CORRELATION-NOTES.md"
+                },
+                {
+                  "type": "file",
+                  "name": "STATISTICS07-CORRELATION-REVISION_MINDMAPS.md",
+                  "path": "AI-NOTES/STATISTICS/STATISTICS07-CORRELATION/STATISTICS07-CORRELATION-REVISION_MINDMAPS.md"
+                }
+              ]
+            },
+            {
+              "type": "folder",
+              "name": "STATISTICS08-INDEX_NUMBERS",
+              "children": [
+                {
+                  "type": "file",
+                  "name": "STATISTICS08-INDEX_NUMBERS-GLOSSARY.md",
+                  "path": "AI-NOTES/STATISTICS/STATISTICS08-INDEX_NUMBERS/STATISTICS08-INDEX_NUMBERS-GLOSSARY.md"
+                },
+                {
+                  "type": "file",
+                  "name": "STATISTICS08-INDEX_NUMBERS-NOTES.md",
+                  "path": "AI-NOTES/STATISTICS/STATISTICS08-INDEX_NUMBERS/STATISTICS08-INDEX_NUMBERS-NOTES.md"
+                },
+                {
+                  "type": "file",
+                  "name": "STATISTICS08-INDEX_NUMBERS-REVISION_MINDMAPS.md",
+                  "path": "AI-NOTES/STATISTICS/STATISTICS08-INDEX_NUMBERS/STATISTICS08-INDEX_NUMBERS-REVISION_MINDMAPS.md"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "folder",
+          "name": "THEMES-IN-WORLD-HISTORY",
+          "children": [
+            {
+              "type": "folder",
+              "name": "THEMES-IN-WORLD-HISTORY01-FROM_THE_BEGINNING_OF_TIME",
+              "children": [
+                {
+                  "type": "file",
+                  "name": "THEMES-IN-WORLD-HISTORY01-FROM_THE_BEGINNING_OF_TIME-GLOSSARY.md",
+                  "path": "AI-NOTES/THEMES-IN-WORLD-HISTORY/THEMES-IN-WORLD-HISTORY01-FROM_THE_BEGINNING_OF_TIME/THEMES-IN-WORLD-HISTORY01-FROM_THE_BEGINNING_OF_TIME-GLOSSARY.md"
+                },
+                {
+                  "type": "file",
+                  "name": "THEMES-IN-WORLD-HISTORY01-FROM_THE_BEGINNING_OF_TIME-NOTES.md",
+                  "path": "AI-NOTES/THEMES-IN-WORLD-HISTORY/THEMES-IN-WORLD-HISTORY01-FROM_THE_BEGINNING_OF_TIME/THEMES-IN-WORLD-HISTORY01-FROM_THE_BEGINNING_OF_TIME-NOTES.md"
+                },
+                {
+                  "type": "file",
+                  "name": "THEMES-IN-WORLD-HISTORY01-FROM_THE_BEGINNING_OF_TIME-REVISION_MINDMAPS.md",
+                  "path": "AI-NOTES/THEMES-IN-WORLD-HISTORY/THEMES-IN-WORLD-HISTORY01-FROM_THE_BEGINNING_OF_TIME/THEMES-IN-WORLD-HISTORY01-FROM_THE_BEGINNING_OF_TIME-REVISION_MINDMAPS.md"
+                }
+              ]
+            },
+            {
+              "type": "folder",
+              "name": "THEMES-IN-WORLD-HISTORY02-EARLY_SOCIETIES",
+              "children": [
+                {
+                  "type": "file",
+                  "name": "THEMES-IN-WORLD-HISTORY02-EARLY_SOCIETIES-GLOSSARY.md",
+                  "path": "AI-NOTES/THEMES-IN-WORLD-HISTORY/THEMES-IN-WORLD-HISTORY02-EARLY_SOCIETIES/THEMES-IN-WORLD-HISTORY02-EARLY_SOCIETIES-GLOSSARY.md"
+                },
+                {
+                  "type": "file",
+                  "name": "THEMES-IN-WORLD-HISTORY02-EARLY_SOCIETIES-NOTES.md",
+                  "path": "AI-NOTES/THEMES-IN-WORLD-HISTORY/THEMES-IN-WORLD-HISTORY02-EARLY_SOCIETIES/THEMES-IN-WORLD-HISTORY02-EARLY_SOCIETIES-NOTES.md"
+                },
+                {
+                  "type": "file",
+                  "name": "THEMES-IN-WORLD-HISTORY02-EARLY_SOCIETIES-REVISION_MINDMAPS.md",
+                  "path": "AI-NOTES/THEMES-IN-WORLD-HISTORY/THEMES-IN-WORLD-HISTORY02-EARLY_SOCIETIES/THEMES-IN-WORLD-HISTORY02-EARLY_SOCIETIES-REVISION_MINDMAPS.md"
+                }
+              ]
+            },
+            {
+              "type": "folder",
+              "name": "THEMES-IN-WORLD-HISTORY03-AN_EMPIRE_ACROSS_THREE_CONTINENTS",
+              "children": [
+                {
+                  "type": "file",
+                  "name": "THEMES-IN-WORLD-HISTORY03-AN_EMPIRE_ACROSS_THREE_CONTINENTS-GLOSSARY.md",
+                  "path": "AI-NOTES/THEMES-IN-WORLD-HISTORY/THEMES-IN-WORLD-HISTORY03-AN_EMPIRE_ACROSS_THREE_CONTINENTS/THEMES-IN-WORLD-HISTORY03-AN_EMPIRE_ACROSS_THREE_CONTINENTS-GLOSSARY.md"
+                },
+                {
+                  "type": "file",
+                  "name": "THEMES-IN-WORLD-HISTORY03-AN_EMPIRE_ACROSS_THREE_CONTINENTS-NOTES.md",
+                  "path": "AI-NOTES/THEMES-IN-WORLD-HISTORY/THEMES-IN-WORLD-HISTORY03-AN_EMPIRE_ACROSS_THREE_CONTINENTS/THEMES-IN-WORLD-HISTORY03-AN_EMPIRE_ACROSS_THREE_CONTINENTS-NOTES.md"
+                },
+                {
+                  "type": "file",
+                  "name": "THEMES-IN-WORLD-HISTORY03-AN_EMPIRE_ACROSS_THREE_CONTINENTS-REVISION_MINDMAPS.md",
+                  "path": "AI-NOTES/THEMES-IN-WORLD-HISTORY/THEMES-IN-WORLD-HISTORY03-AN_EMPIRE_ACROSS_THREE_CONTINENTS/THEMES-IN-WORLD-HISTORY03-AN_EMPIRE_ACROSS_THREE_CONTINENTS-REVISION_MINDMAPS.md"
+                }
+              ]
+            },
+            {
+              "type": "folder",
+              "name": "THEMES-IN-WORLD-HISTORY04-THE_CENTRAL_ISLAMIC_LANDS",
+              "children": [
+                {
+                  "type": "file",
+                  "name": "THEMES-IN-WORLD-HISTORY04-THE_CENTRAL_ISLAMIC_LANDS-GLOSSARY.md",
+                  "path": "AI-NOTES/THEMES-IN-WORLD-HISTORY/THEMES-IN-WORLD-HISTORY04-THE_CENTRAL_ISLAMIC_LANDS/THEMES-IN-WORLD-HISTORY04-THE_CENTRAL_ISLAMIC_LANDS-GLOSSARY.md"
+                },
+                {
+                  "type": "file",
+                  "name": "THEMES-IN-WORLD-HISTORY04-THE_CENTRAL_ISLAMIC_LANDS-NOTES.md",
+                  "path": "AI-NOTES/THEMES-IN-WORLD-HISTORY/THEMES-IN-WORLD-HISTORY04-THE_CENTRAL_ISLAMIC_LANDS/THEMES-IN-WORLD-HISTORY04-THE_CENTRAL_ISLAMIC_LANDS-NOTES.md"
+                },
+                {
+                  "type": "file",
+                  "name": "THEMES-IN-WORLD-HISTORY04-THE_CENTRAL_ISLAMIC_LANDS-REVISION_MINDMAPS.md",
+                  "path": "AI-NOTES/THEMES-IN-WORLD-HISTORY/THEMES-IN-WORLD-HISTORY04-THE_CENTRAL_ISLAMIC_LANDS/THEMES-IN-WORLD-HISTORY04-THE_CENTRAL_ISLAMIC_LANDS-REVISION_MINDMAPS.md"
+                }
+              ]
+            },
+            {
+              "type": "folder",
+              "name": "THEMES-IN-WORLD-HISTORY05-NOMADIC_EMPIRES",
+              "children": [
+                {
+                  "type": "file",
+                  "name": "THEMES-IN-WORLD-HISTORY05-NOMADIC_EMPIRES-GLOSSARY.md",
+                  "path": "AI-NOTES/THEMES-IN-WORLD-HISTORY/THEMES-IN-WORLD-HISTORY05-NOMADIC_EMPIRES/THEMES-IN-WORLD-HISTORY05-NOMADIC_EMPIRES-GLOSSARY.md"
+                },
+                {
+                  "type": "file",
+                  "name": "THEMES-IN-WORLD-HISTORY05-NOMADIC_EMPIRES-NOTES.md",
+                  "path": "AI-NOTES/THEMES-IN-WORLD-HISTORY/THEMES-IN-WORLD-HISTORY05-NOMADIC_EMPIRES/THEMES-IN-WORLD-HISTORY05-NOMADIC_EMPIRES-NOTES.md"
+                },
+                {
+                  "type": "file",
+                  "name": "THEMES-IN-WORLD-HISTORY05-NOMADIC_EMPIRES-REVISION_MINDMAPS.md",
+                  "path": "AI-NOTES/THEMES-IN-WORLD-HISTORY/THEMES-IN-WORLD-HISTORY05-NOMADIC_EMPIRES/THEMES-IN-WORLD-HISTORY05-NOMADIC_EMPIRES-REVISION_MINDMAPS.md"
+                }
+              ]
+            },
+            {
+              "type": "folder",
+              "name": "THEMES-IN-WORLD-HISTORY06-THE_THREE_ORDERS",
+              "children": [
+                {
+                  "type": "file",
+                  "name": "THEMES-IN-WORLD-HISTORY06-THE_THREE_ORDERS-GLOSSARY.md",
+                  "path": "AI-NOTES/THEMES-IN-WORLD-HISTORY/THEMES-IN-WORLD-HISTORY06-THE_THREE_ORDERS/THEMES-IN-WORLD-HISTORY06-THE_THREE_ORDERS-GLOSSARY.md"
+                },
+                {
+                  "type": "file",
+                  "name": "THEMES-IN-WORLD-HISTORY06-THE_THREE_ORDERS-NOTES.md",
+                  "path": "AI-NOTES/THEMES-IN-WORLD-HISTORY/THEMES-IN-WORLD-HISTORY06-THE_THREE_ORDERS/THEMES-IN-WORLD-HISTORY06-THE_THREE_ORDERS-NOTES.md"
+                },
+                {
+                  "type": "file",
+                  "name": "THEMES-IN-WORLD-HISTORY06-THE_THREE_ORDERS-REVISION_MINDMAPS.md",
+                  "path": "AI-NOTES/THEMES-IN-WORLD-HISTORY/THEMES-IN-WORLD-HISTORY06-THE_THREE_ORDERS/THEMES-IN-WORLD-HISTORY06-THE_THREE_ORDERS-REVISION_MINDMAPS.md"
+                }
+              ]
+            },
+            {
+              "type": "folder",
+              "name": "THEMES-IN-WORLD-HISTORY07-CHANGING_CULTURAL_TRADITIONS",
+              "children": [
+                {
+                  "type": "file",
+                  "name": "THEMES-IN-WORLD-HISTORY07-CHANGING_CULTURAL_TRADITIONS-GLOSSARY.md",
+                  "path": "AI-NOTES/THEMES-IN-WORLD-HISTORY/THEMES-IN-WORLD-HISTORY07-CHANGING_CULTURAL_TRADITIONS/THEMES-IN-WORLD-HISTORY07-CHANGING_CULTURAL_TRADITIONS-GLOSSARY.md"
+                },
+                {
+                  "type": "file",
+                  "name": "THEMES-IN-WORLD-HISTORY07-CHANGING_CULTURAL_TRADITIONS-NOTES.md",
+                  "path": "AI-NOTES/THEMES-IN-WORLD-HISTORY/THEMES-IN-WORLD-HISTORY07-CHANGING_CULTURAL_TRADITIONS/THEMES-IN-WORLD-HISTORY07-CHANGING_CULTURAL_TRADITIONS-NOTES.md"
+                },
+                {
+                  "type": "file",
+                  "name": "THEMES-IN-WORLD-HISTORY07-CHANGING_CULTURAL_TRADITIONS-REVISION_MINDMAPS.md",
+                  "path": "AI-NOTES/THEMES-IN-WORLD-HISTORY/THEMES-IN-WORLD-HISTORY07-CHANGING_CULTURAL_TRADITIONS/THEMES-IN-WORLD-HISTORY07-CHANGING_CULTURAL_TRADITIONS-REVISION_MINDMAPS.md"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "folder",
+          "name": "UNDERSTANDING-SOCIETY",
+          "children": [
+            {
+              "type": "folder",
+              "name": "UNDERSTANDING-SOCIETY01-STRUCTURES_OF_SOCIETY",
+              "children": [
+                {
+                  "type": "file",
+                  "name": "UNDERSTANDING-SOCIETY01-STRUCTURES_OF_SOCIETY-GLOSSARY.md",
+                  "path": "AI-NOTES/UNDERSTANDING-SOCIETY/UNDERSTANDING-SOCIETY01-STRUCTURES_OF_SOCIETY/UNDERSTANDING-SOCIETY01-STRUCTURES_OF_SOCIETY-GLOSSARY.md"
+                },
+                {
+                  "type": "file",
+                  "name": "UNDERSTANDING-SOCIETY01-STRUCTURES_OF_SOCIETY-NOTES.md",
+                  "path": "AI-NOTES/UNDERSTANDING-SOCIETY/UNDERSTANDING-SOCIETY01-STRUCTURES_OF_SOCIETY/UNDERSTANDING-SOCIETY01-STRUCTURES_OF_SOCIETY-NOTES.md"
+                },
+                {
+                  "type": "file",
+                  "name": "UNDERSTANDING-SOCIETY01-STRUCTURES_OF_SOCIETY-REVISION_MINDMAPS.md",
+                  "path": "AI-NOTES/UNDERSTANDING-SOCIETY/UNDERSTANDING-SOCIETY01-STRUCTURES_OF_SOCIETY/UNDERSTANDING-SOCIETY01-STRUCTURES_OF_SOCIETY-REVISION_MINDMAPS.md"
+                }
+              ]
+            },
+            {
+              "type": "folder",
+              "name": "UNDERSTANDING-SOCIETY02-SOCIAL_INSTITUTIONS_CONTINUITY_AND_CHANGE",
+              "children": [
+                {
+                  "type": "file",
+                  "name": "UNDERSTANDING-SOCIETY02-SOCIAL_INSTITUTIONS_CONTINUITY_AND_CHANGE-GLOSSARY.md",
+                  "path": "AI-NOTES/UNDERSTANDING-SOCIETY/UNDERSTANDING-SOCIETY02-SOCIAL_INSTITUTIONS_CONTINUITY_AND_CHANGE/UNDERSTANDING-SOCIETY02-SOCIAL_INSTITUTIONS_CONTINUITY_AND_CHANGE-GLOSSARY.md"
+                },
+                {
+                  "type": "file",
+                  "name": "UNDERSTANDING-SOCIETY02-SOCIAL_INSTITUTIONS_CONTINUITY_AND_CHANGE-NOTES.md",
+                  "path": "AI-NOTES/UNDERSTANDING-SOCIETY/UNDERSTANDING-SOCIETY02-SOCIAL_INSTITUTIONS_CONTINUITY_AND_CHANGE/UNDERSTANDING-SOCIETY02-SOCIAL_INSTITUTIONS_CONTINUITY_AND_CHANGE-NOTES.md"
+                },
+                {
+                  "type": "file",
+                  "name": "UNDERSTANDING-SOCIETY02-SOCIAL_INSTITUTIONS_CONTINUITY_AND_CHANGE-REVISION_MINDMAPS.md",
+                  "path": "AI-NOTES/UNDERSTANDING-SOCIETY/UNDERSTANDING-SOCIETY02-SOCIAL_INSTITUTIONS_CONTINUITY_AND_CHANGE/UNDERSTANDING-SOCIETY02-SOCIAL_INSTITUTIONS_CONTINUITY_AND_CHANGE-REVISION_MINDMAPS.md"
+                }
+              ]
+            },
+            {
+              "type": "folder",
+              "name": "UNDERSTANDING-SOCIETY03-SOCIAL_INEQUALITY_AND_EXCLUSION",
+              "children": [
+                {
+                  "type": "file",
+                  "name": "UNDERSTANDING-SOCIETY03-SOCIAL_INEQUALITY_AND_EXCLUSION-GLOSSARY.md",
+                  "path": "AI-NOTES/UNDERSTANDING-SOCIETY/UNDERSTANDING-SOCIETY03-SOCIAL_INEQUALITY_AND_EXCLUSION/UNDERSTANDING-SOCIETY03-SOCIAL_INEQUALITY_AND_EXCLUSION-GLOSSARY.md"
+                },
+                {
+                  "type": "file",
+                  "name": "UNDERSTANDING-SOCIETY03-SOCIAL_INEQUALITY_AND_EXCLUSION-NOTES.md",
+                  "path": "AI-NOTES/UNDERSTANDING-SOCIETY/UNDERSTANDING-SOCIETY03-SOCIAL_INEQUALITY_AND_EXCLUSION/UNDERSTANDING-SOCIETY03-SOCIAL_INEQUALITY_AND_EXCLUSION-NOTES.md"
+                },
+                {
+                  "type": "file",
+                  "name": "UNDERSTANDING-SOCIETY03-SOCIAL_INEQUALITY_AND_EXCLUSION-REVISION_MINDMAPS.md",
+                  "path": "AI-NOTES/UNDERSTANDING-SOCIETY/UNDERSTANDING-SOCIETY03-SOCIAL_INEQUALITY_AND_EXCLUSION/UNDERSTANDING-SOCIETY03-SOCIAL_INEQUALITY_AND_EXCLUSION-REVISION_MINDMAPS.md"
+                }
+              ]
+            },
+            {
+              "type": "folder",
+              "name": "UNDERSTANDING-SOCIETY04-THE_CHALLENGES_OF_CULTURAL_DIVERSITY",
+              "children": [
+                {
+                  "type": "file",
+                  "name": "UNDERSTANDING-SOCIETY04-THE_CHALLENGES_OF_CULTURAL_DIVERSITY-GLOSSARY.md",
+                  "path": "AI-NOTES/UNDERSTANDING-SOCIETY/UNDERSTANDING-SOCIETY04-THE_CHALLENGES_OF_CULTURAL_DIVERSITY/UNDERSTANDING-SOCIETY04-THE_CHALLENGES_OF_CULTURAL_DIVERSITY-GLOSSARY.md"
+                },
+                {
+                  "type": "file",
+                  "name": "UNDERSTANDING-SOCIETY04-THE_CHALLENGES_OF_CULTURAL_DIVERSITY-NOTES.md",
+                  "path": "AI-NOTES/UNDERSTANDING-SOCIETY/UNDERSTANDING-SOCIETY04-THE_CHALLENGES_OF_CULTURAL_DIVERSITY/UNDERSTANDING-SOCIETY04-THE_CHALLENGES_OF_CULTURAL_DIVERSITY-NOTES.md"
+                },
+                {
+                  "type": "file",
+                  "name": "UNDERSTANDING-SOCIETY04-THE_CHALLENGES_OF_CULTURAL_DIVERSITY-REVISION_MINDMAPS.md",
+                  "path": "AI-NOTES/UNDERSTANDING-SOCIETY/UNDERSTANDING-SOCIETY04-THE_CHALLENGES_OF_CULTURAL_DIVERSITY/UNDERSTANDING-SOCIETY04-THE_CHALLENGES_OF_CULTURAL_DIVERSITY-REVISION_MINDMAPS.md"
+                }
+              ]
+            },
+            {
+              "type": "folder",
+              "name": "UNDERSTANDING-SOCIETY05-CHANGE_AND_DEVELOPMENT_IN_RURAL_SOCIETY",
+              "children": [
+                {
+                  "type": "file",
+                  "name": "UNDERSTANDING-SOCIETY05-CHANGE_AND_DEVELOPMENT_IN_RURAL_SOCIETY-GLOSSARY.md",
+                  "path": "AI-NOTES/UNDERSTANDING-SOCIETY/UNDERSTANDING-SOCIETY05-CHANGE_AND_DEVELOPMENT_IN_RURAL_SOCIETY/UNDERSTANDING-SOCIETY05-CHANGE_AND_DEVELOPMENT_IN_RURAL_SOCIETY-GLOSSARY.md"
+                },
+                {
+                  "type": "file",
+                  "name": "UNDERSTANDING-SOCIETY05-CHANGE_AND_DEVELOPMENT_IN_RURAL_SOCIETY-NOTES.md",
+                  "path": "AI-NOTES/UNDERSTANDING-SOCIETY/UNDERSTANDING-SOCIETY05-CHANGE_AND_DEVELOPMENT_IN_RURAL_SOCIETY/UNDERSTANDING-SOCIETY05-CHANGE_AND_DEVELOPMENT_IN_RURAL_SOCIETY-NOTES.md"
+                },
+                {
+                  "type": "file",
+                  "name": "UNDERSTANDING-SOCIETY05-CHANGE_AND_DEVELOPMENT_IN_RURAL_SOCIETY-REVISION_MINDMAPS.md",
+                  "path": "AI-NOTES/UNDERSTANDING-SOCIETY/UNDERSTANDING-SOCIETY05-CHANGE_AND_DEVELOPMENT_IN_RURAL_SOCIETY/UNDERSTANDING-SOCIETY05-CHANGE_AND_DEVELOPMENT_IN_RURAL_SOCIETY-REVISION_MINDMAPS.md"
+                }
+              ]
+            }
+          ]
         }
       ]
     },
@@ -30,13 +1065,326 @@
     },
     {
       "type": "folder",
-      "name": "NCERT-EXAMPLER",
-      "children": []
-    },
-    {
-      "type": "folder",
       "name": "NCERT-PDF",
-      "children": []
+      "children": [
+        {
+          "type": "folder",
+          "name": "INDIAN-CONSTITUTION-AT-WORK",
+          "children": [
+            {
+              "type": "file",
+              "name": "INDIAN-CONSTITUTION-AT-WORK-PRELIM.pdf",
+              "path": "NCERT-PDF/INDIAN-CONSTITUTION-AT-WORK/INDIAN-CONSTITUTION-AT-WORK-PRELIM.pdf"
+            },
+            {
+              "type": "file",
+              "name": "INDIAN-CONSTITUTION-AT-WORK01-CONSTITUTION_WHY_AND_HOW.pdf",
+              "path": "NCERT-PDF/INDIAN-CONSTITUTION-AT-WORK/INDIAN-CONSTITUTION-AT-WORK01-CONSTITUTION_WHY_AND_HOW.pdf"
+            },
+            {
+              "type": "file",
+              "name": "INDIAN-CONSTITUTION-AT-WORK02-RIGHTS_IN_THE_INDIAN_CONSTITUTION.pdf",
+              "path": "NCERT-PDF/INDIAN-CONSTITUTION-AT-WORK/INDIAN-CONSTITUTION-AT-WORK02-RIGHTS_IN_THE_INDIAN_CONSTITUTION.pdf"
+            },
+            {
+              "type": "file",
+              "name": "INDIAN-CONSTITUTION-AT-WORK03-ELECTION_AND_REPRESENTATION.pdf",
+              "path": "NCERT-PDF/INDIAN-CONSTITUTION-AT-WORK/INDIAN-CONSTITUTION-AT-WORK03-ELECTION_AND_REPRESENTATION.pdf"
+            },
+            {
+              "type": "file",
+              "name": "INDIAN-CONSTITUTION-AT-WORK04-EXECUTIVE.pdf",
+              "path": "NCERT-PDF/INDIAN-CONSTITUTION-AT-WORK/INDIAN-CONSTITUTION-AT-WORK04-EXECUTIVE.pdf"
+            },
+            {
+              "type": "file",
+              "name": "INDIAN-CONSTITUTION-AT-WORK05-LEGISLATURE.pdf",
+              "path": "NCERT-PDF/INDIAN-CONSTITUTION-AT-WORK/INDIAN-CONSTITUTION-AT-WORK05-LEGISLATURE.pdf"
+            },
+            {
+              "type": "file",
+              "name": "INDIAN-CONSTITUTION-AT-WORK06-JUDICIARY.pdf",
+              "path": "NCERT-PDF/INDIAN-CONSTITUTION-AT-WORK/INDIAN-CONSTITUTION-AT-WORK06-JUDICIARY.pdf"
+            },
+            {
+              "type": "file",
+              "name": "INDIAN-CONSTITUTION-AT-WORK07-FEDERALISM.pdf",
+              "path": "NCERT-PDF/INDIAN-CONSTITUTION-AT-WORK/INDIAN-CONSTITUTION-AT-WORK07-FEDERALISM.pdf"
+            },
+            {
+              "type": "file",
+              "name": "INDIAN-CONSTITUTION-AT-WORK08-LOCAL_GOVERNMENTS.pdf",
+              "path": "NCERT-PDF/INDIAN-CONSTITUTION-AT-WORK/INDIAN-CONSTITUTION-AT-WORK08-LOCAL_GOVERNMENTS.pdf"
+            },
+            {
+              "type": "file",
+              "name": "INDIAN-CONSTITUTION-AT-WORK09-CONSTITUTION_AS_A_LIVING_DOCUMENT.pdf",
+              "path": "NCERT-PDF/INDIAN-CONSTITUTION-AT-WORK/INDIAN-CONSTITUTION-AT-WORK09-CONSTITUTION_AS_A_LIVING_DOCUMENT.pdf"
+            },
+            {
+              "type": "file",
+              "name": "INDIAN-CONSTITUTION-AT-WORK10-THE_PHILOSOPHY_OF_THE_CONSTITUTION.pdf",
+              "path": "NCERT-PDF/INDIAN-CONSTITUTION-AT-WORK/INDIAN-CONSTITUTION-AT-WORK10-THE_PHILOSOPHY_OF_THE_CONSTITUTION.pdf"
+            }
+          ]
+        },
+        {
+          "type": "folder",
+          "name": "INTRODUCING-SOCIOLOGY",
+          "children": [
+            {
+              "type": "file",
+              "name": "INTRODUCING-SOCIOLOGY-PRELIM.pdf",
+              "path": "NCERT-PDF/INTRODUCING-SOCIOLOGY/INTRODUCING-SOCIOLOGY-PRELIM.pdf"
+            },
+            {
+              "type": "file",
+              "name": "INTRODUCING-SOCIOLOGY01-SOCIETY_AND_SOCIOLOGY.pdf",
+              "path": "NCERT-PDF/INTRODUCING-SOCIOLOGY/INTRODUCING-SOCIOLOGY01-SOCIETY_AND_SOCIOLOGY.pdf"
+            },
+            {
+              "type": "file",
+              "name": "INTRODUCING-SOCIOLOGY02-SOCIAL_CHANGE_AND_SOCIAL_ORDER.pdf",
+              "path": "NCERT-PDF/INTRODUCING-SOCIOLOGY/INTRODUCING-SOCIOLOGY02-SOCIAL_CHANGE_AND_SOCIAL_ORDER.pdf"
+            },
+            {
+              "type": "file",
+              "name": "INTRODUCING-SOCIOLOGY03-ENVIRONMENT_AND_SOCIETY.pdf",
+              "path": "NCERT-PDF/INTRODUCING-SOCIOLOGY/INTRODUCING-SOCIOLOGY03-ENVIRONMENT_AND_SOCIETY.pdf"
+            },
+            {
+              "type": "file",
+              "name": "INTRODUCING-SOCIOLOGY04-INTRODUCING_WESTERN_SOCIOLOGISTS.pdf",
+              "path": "NCERT-PDF/INTRODUCING-SOCIOLOGY/INTRODUCING-SOCIOLOGY04-INTRODUCING_WESTERN_SOCIOLOGISTS.pdf"
+            },
+            {
+              "type": "file",
+              "name": "INTRODUCING-SOCIOLOGY05-INDIAN_SOCIOLOGISTS.pdf",
+              "path": "NCERT-PDF/INTRODUCING-SOCIOLOGY/INTRODUCING-SOCIOLOGY05-INDIAN_SOCIOLOGISTS.pdf"
+            }
+          ]
+        },
+        {
+          "type": "folder",
+          "name": "MICROECONOMICS",
+          "children": [
+            {
+              "type": "file",
+              "name": "MICROECONOMICS-PRELIM.pdf",
+              "path": "NCERT-PDF/MICROECONOMICS/MICROECONOMICS-PRELIM.pdf"
+            },
+            {
+              "type": "file",
+              "name": "MICROECONOMICS01-INTRODUCTION.pdf",
+              "path": "NCERT-PDF/MICROECONOMICS/MICROECONOMICS01-INTRODUCTION.pdf"
+            },
+            {
+              "type": "file",
+              "name": "MICROECONOMICS02-THEORY_OF_CONSUMER_BEHAVIOUR.pdf",
+              "path": "NCERT-PDF/MICROECONOMICS/MICROECONOMICS02-THEORY_OF_CONSUMER_BEHAVIOUR.pdf"
+            },
+            {
+              "type": "file",
+              "name": "MICROECONOMICS03-PRODUCTION_AND_COSTS.pdf",
+              "path": "NCERT-PDF/MICROECONOMICS/MICROECONOMICS03-PRODUCTION_AND_COSTS.pdf"
+            },
+            {
+              "type": "file",
+              "name": "MICROECONOMICS04-THE_THEORY_OF_THE_FIRM_UNDER_PERFECT_COMPETITION.pdf",
+              "path": "NCERT-PDF/MICROECONOMICS/MICROECONOMICS04-THE_THEORY_OF_THE_FIRM_UNDER_PERFECT_COMPETITION.pdf"
+            },
+            {
+              "type": "file",
+              "name": "MICROECONOMICS05-MARKET_EQUILIBRIUM.pdf",
+              "path": "NCERT-PDF/MICROECONOMICS/MICROECONOMICS05-MARKET_EQUILIBRIUM.pdf"
+            }
+          ]
+        },
+        {
+          "type": "folder",
+          "name": "POLITICAL-THEORY",
+          "children": [
+            {
+              "type": "file",
+              "name": "POLITICAL-THEORY-PRELIM.pdf",
+              "path": "NCERT-PDF/POLITICAL-THEORY/POLITICAL-THEORY-PRELIM.pdf"
+            },
+            {
+              "type": "file",
+              "name": "POLITICAL-THEORY01-POLITICAL_THEORY_AN_INTRODUCTION.pdf",
+              "path": "NCERT-PDF/POLITICAL-THEORY/POLITICAL-THEORY01-POLITICAL_THEORY_AN_INTRODUCTION.pdf"
+            },
+            {
+              "type": "file",
+              "name": "POLITICAL-THEORY02-FREEDOM.pdf",
+              "path": "NCERT-PDF/POLITICAL-THEORY/POLITICAL-THEORY02-FREEDOM.pdf"
+            },
+            {
+              "type": "file",
+              "name": "POLITICAL-THEORY03-EQUALITY.pdf",
+              "path": "NCERT-PDF/POLITICAL-THEORY/POLITICAL-THEORY03-EQUALITY.pdf"
+            },
+            {
+              "type": "file",
+              "name": "POLITICAL-THEORY04-SOCIAL_JUSTICE.pdf",
+              "path": "NCERT-PDF/POLITICAL-THEORY/POLITICAL-THEORY04-SOCIAL_JUSTICE.pdf"
+            },
+            {
+              "type": "file",
+              "name": "POLITICAL-THEORY05-RIGHTS.pdf",
+              "path": "NCERT-PDF/POLITICAL-THEORY/POLITICAL-THEORY05-RIGHTS.pdf"
+            },
+            {
+              "type": "file",
+              "name": "POLITICAL-THEORY06-CITIZENSHIP.pdf",
+              "path": "NCERT-PDF/POLITICAL-THEORY/POLITICAL-THEORY06-CITIZENSHIP.pdf"
+            },
+            {
+              "type": "file",
+              "name": "POLITICAL-THEORY07-NATIONALISM.pdf",
+              "path": "NCERT-PDF/POLITICAL-THEORY/POLITICAL-THEORY07-NATIONALISM.pdf"
+            },
+            {
+              "type": "file",
+              "name": "POLITICAL-THEORY08-SECULARISM.pdf",
+              "path": "NCERT-PDF/POLITICAL-THEORY/POLITICAL-THEORY08-SECULARISM.pdf"
+            }
+          ]
+        },
+        {
+          "type": "folder",
+          "name": "STATISTICS",
+          "children": [
+            {
+              "type": "file",
+              "name": "STATISTICS-PRELIM.pdf",
+              "path": "NCERT-PDF/STATISTICS/STATISTICS-PRELIM.pdf"
+            },
+            {
+              "type": "file",
+              "name": "STATISTICS01-INTRODUCTION.pdf",
+              "path": "NCERT-PDF/STATISTICS/STATISTICS01-INTRODUCTION.pdf"
+            },
+            {
+              "type": "file",
+              "name": "STATISTICS02-COLLECTION_OF_DATA.pdf",
+              "path": "NCERT-PDF/STATISTICS/STATISTICS02-COLLECTION_OF_DATA.pdf"
+            },
+            {
+              "type": "file",
+              "name": "STATISTICS03-ORGANISATION_OF_DATA.pdf",
+              "path": "NCERT-PDF/STATISTICS/STATISTICS03-ORGANISATION_OF_DATA.pdf"
+            },
+            {
+              "type": "file",
+              "name": "STATISTICS04-PRESENTATION_OF_DATA.pdf",
+              "path": "NCERT-PDF/STATISTICS/STATISTICS04-PRESENTATION_OF_DATA.pdf"
+            },
+            {
+              "type": "file",
+              "name": "STATISTICS05-MEASURES_OF_CENTRAL_TENDENCY.pdf",
+              "path": "NCERT-PDF/STATISTICS/STATISTICS05-MEASURES_OF_CENTRAL_TENDENCY.pdf"
+            },
+            {
+              "type": "file",
+              "name": "STATISTICS06-MEASURES_OF_DISPERSION.pdf",
+              "path": "NCERT-PDF/STATISTICS/STATISTICS06-MEASURES_OF_DISPERSION.pdf"
+            },
+            {
+              "type": "file",
+              "name": "STATISTICS07-CORRELATION.pdf",
+              "path": "NCERT-PDF/STATISTICS/STATISTICS07-CORRELATION.pdf"
+            },
+            {
+              "type": "file",
+              "name": "STATISTICS08-INDEX_NUMBERS.pdf",
+              "path": "NCERT-PDF/STATISTICS/STATISTICS08-INDEX_NUMBERS.pdf"
+            }
+          ]
+        },
+        {
+          "type": "folder",
+          "name": "THEMES-IN-WORLD-HISTORY",
+          "children": [
+            {
+              "type": "file",
+              "name": "THEMES-IN-WORLD-HISTORY-PRELIM.pdf",
+              "path": "NCERT-PDF/THEMES-IN-WORLD-HISTORY/THEMES-IN-WORLD-HISTORY-PRELIM.pdf"
+            },
+            {
+              "type": "file",
+              "name": "THEMES-IN-WORLD-HISTORY01-FROM_THE_BEGINNING_OF_TIME.pdf",
+              "path": "NCERT-PDF/THEMES-IN-WORLD-HISTORY/THEMES-IN-WORLD-HISTORY01-FROM_THE_BEGINNING_OF_TIME.pdf"
+            },
+            {
+              "type": "file",
+              "name": "THEMES-IN-WORLD-HISTORY02-EARLY_SOCIETIES.pdf",
+              "path": "NCERT-PDF/THEMES-IN-WORLD-HISTORY/THEMES-IN-WORLD-HISTORY02-EARLY_SOCIETIES.pdf"
+            },
+            {
+              "type": "file",
+              "name": "THEMES-IN-WORLD-HISTORY03-AN_EMPIRE_ACROSS_THREE_CONTINENTS.pdf",
+              "path": "NCERT-PDF/THEMES-IN-WORLD-HISTORY/THEMES-IN-WORLD-HISTORY03-AN_EMPIRE_ACROSS_THREE_CONTINENTS.pdf"
+            },
+            {
+              "type": "file",
+              "name": "THEMES-IN-WORLD-HISTORY04-THE_CENTRAL_ISLAMIC_LANDS.pdf",
+              "path": "NCERT-PDF/THEMES-IN-WORLD-HISTORY/THEMES-IN-WORLD-HISTORY04-THE_CENTRAL_ISLAMIC_LANDS.pdf"
+            },
+            {
+              "type": "file",
+              "name": "THEMES-IN-WORLD-HISTORY05-NOMADIC_EMPIRES.pdf",
+              "path": "NCERT-PDF/THEMES-IN-WORLD-HISTORY/THEMES-IN-WORLD-HISTORY05-NOMADIC_EMPIRES.pdf"
+            },
+            {
+              "type": "file",
+              "name": "THEMES-IN-WORLD-HISTORY06-THE_THREE_ORDERS.pdf",
+              "path": "NCERT-PDF/THEMES-IN-WORLD-HISTORY/THEMES-IN-WORLD-HISTORY06-THE_THREE_ORDERS.pdf"
+            },
+            {
+              "type": "file",
+              "name": "THEMES-IN-WORLD-HISTORY07-CHANGING_CULTURAL_TRADITIONS.pdf",
+              "path": "NCERT-PDF/THEMES-IN-WORLD-HISTORY/THEMES-IN-WORLD-HISTORY07-CHANGING_CULTURAL_TRADITIONS.pdf"
+            }
+          ]
+        },
+        {
+          "type": "folder",
+          "name": "UNDERSTANDING-SOCIETY",
+          "children": [
+            {
+              "type": "file",
+              "name": "UNDERSTANDING-SOCIETY-PRELIM.pdf",
+              "path": "NCERT-PDF/UNDERSTANDING-SOCIETY/UNDERSTANDING-SOCIETY-PRELIM.pdf"
+            },
+            {
+              "type": "file",
+              "name": "UNDERSTANDING-SOCIETY01-STRUCTURES_OF_SOCIETY.pdf",
+              "path": "NCERT-PDF/UNDERSTANDING-SOCIETY/UNDERSTANDING-SOCIETY01-STRUCTURES_OF_SOCIETY.pdf"
+            },
+            {
+              "type": "file",
+              "name": "UNDERSTANDING-SOCIETY02-SOCIAL_INSTITUTIONS_CONTINUITY_AND_CHANGE.pdf",
+              "path": "NCERT-PDF/UNDERSTANDING-SOCIETY/UNDERSTANDING-SOCIETY02-SOCIAL_INSTITUTIONS_CONTINUITY_AND_CHANGE.pdf"
+            },
+            {
+              "type": "file",
+              "name": "UNDERSTANDING-SOCIETY03-SOCIAL_INEQUALITY_AND_EXCLUSION.pdf",
+              "path": "NCERT-PDF/UNDERSTANDING-SOCIETY/UNDERSTANDING-SOCIETY03-SOCIAL_INEQUALITY_AND_EXCLUSION.pdf"
+            },
+            {
+              "type": "file",
+              "name": "UNDERSTANDING-SOCIETY04-THE_CHALLENGES_OF_CULTURAL_DIVERSITY.pdf",
+              "path": "NCERT-PDF/UNDERSTANDING-SOCIETY/UNDERSTANDING-SOCIETY04-THE_CHALLENGES_OF_CULTURAL_DIVERSITY.pdf"
+            },
+            {
+              "type": "file",
+              "name": "UNDERSTANDING-SOCIETY05-CHANGE_AND_DEVELOPMENT_IN_RURAL_SOCIETY.pdf",
+              "path": "NCERT-PDF/UNDERSTANDING-SOCIETY/UNDERSTANDING-SOCIETY05-CHANGE_AND_DEVELOPMENT_IN_RURAL_SOCIETY.pdf"
+            }
+          ]
+        }
+      ]
     },
     {
       "type": "file",
