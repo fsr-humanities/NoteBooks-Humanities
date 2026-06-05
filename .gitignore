@@ -1,4 +1,5 @@
 *.zip
+*.sh
 tree.txt
 TEST/
 REFERENCE-BOOKS-SOURCE/
